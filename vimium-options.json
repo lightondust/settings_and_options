@@ -22,7 +22,7 @@
       "passKeys": ""
     },
     {
-      "pattern": "https?://localhost:8888/*",
+      "pattern": "https?://localhost:8888/notebooks/*",
       "passKeys": ""
     }
   ],
